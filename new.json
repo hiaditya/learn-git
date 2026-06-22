@@ -1,0 +1,22 @@
+{
+    "1001514": {
+        "channelName": "20/20",
+        "dashWidewinePlayUrl": "https://dfwlive-v1-c1p3-sponsored.akamaized.net/Content/HLS.cps/Live/channel(DIS2020-1514.dfw.720)/index.m3u8",
+        "logo": "https://dfwfis.prod.dtvcdn.com/catalog/image/imageserver/v1/service/channel/0ceb396e-86d0-417f-99a2-5de1f3366743/chlogo-bwdb-player/120/91",
+        "channelNumber": "4010",
+        "id": 1001514,
+        "dashWidevineLicenseUrl": "https://directv.drmlive.fun/lic/1001514",
+        "audio": [
+            "Unknown"
+        ],
+        "genre": [
+            "Unknown"
+        ],
+        "HD": "true",
+        "provider": "Directtv",
+        "bid": "Unknown",
+        "entitlements": [
+            "Unknown"
+        ]
+    },
+}
